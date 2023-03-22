@@ -18,7 +18,7 @@
 }
 :root {
 	/* link color */
-	--link-color: hsl(190, 70%, 60%);
+	
 	/* main accent color (mentions, folder icons, unread indicators) */
 	--accent-color: hsl(190, 60%, 50%);
 	/* darker accent color (background of any accent items with text) */
