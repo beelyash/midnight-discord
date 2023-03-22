@@ -11,6 +11,11 @@
 
 /* change colors here */
 /* a color picker should show up if you hover over the "hsl(x, y, z)" part */
+.app-2CXKsg {
+    background-image: url(https://images8.alphacoders.com/767/767470.jpg);
+    background-size: cover;
+    background-color: transparent;
+}
 :root {
 	/* link color */
 	--link-color: hsl(190, 70%, 60%);
